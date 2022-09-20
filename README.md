@@ -6,3 +6,7 @@
 ## Experiment 5
 [SQL Queries](https://github.com/jaisha86/CSA0519-DBMS/blob/main/expr5.txt)
 ![image](https://user-images.githubusercontent.com/38531342/191178294-29df9f34-c641-471a-aeae-f8baf740bc08.png)
+## Experiment 6
+[Expr6 Quries](https://github.com/jaisha86/CSA0519-DBMS/blob/main/expr5.txt)
+![image](https://user-images.githubusercontent.com/38531342/191217653-a25b31d1-4974-4cc0-b819-16c5a2e66b17.png)
+![image](https://user-images.githubusercontent.com/38531342/191217846-31c4342d-c34c-4993-9d70-bae69d5aa082.png)
